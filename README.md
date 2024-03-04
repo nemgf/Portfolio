@@ -43,60 +43,42 @@ Cyclists are eager to monitor their routes and daily progress, aiding them in re
 ### Expectations
 Discovering a user-friendly app, saving time on their rides, and easily navigating their routes.
 #### Preparing for the ride
-**Gear up:** Ensure the bike is in top shape.
-
-**Feeling:** Joy, strength, and optimism.
-
-**Strive:** Fine-tune the bike, ready for the road.
-
-**Achieve:** Prioritize safety on the journey.
+- **Gear up:** Ensure the bike is in top shape.
+- **Feeling:** Joy, strength, and optimism.
+- **Strive:** Fine-tune the bike, ready for the road.
+- **Achieve:** Prioritize safety on the journey.
 
 #### Launching an app
-**Gear up:** Search for the perfect route.
-
-**Feeling:** Frustrations and uncertainties.
-
-**Strive:** Finding the right path might be challenging.
-
-**Achieve:** Improvise and discover new routes.
+- **Gear up:** Search for the perfect route.
+- **Feeling:** Frustrations and uncertainties.
+- **Strive:** Finding the right path might be challenging.
+- **Achieve:** Improvise and discover new routes.
 
 #### Hitting the road
-**Gear up:** Begin the journey.
-
-**Feeling:** Freedom, optimism, and alertness.
-
-**Strive:** Avoiding reckless drivers.
-
-**Achieve:** Maintain a steady pace for a fulfilling ride.
+- **Gear up:** Begin the journey.
+- **Feeling:** Freedom, optimism, and alertness.
+- **Strive:** Avoiding reckless drivers.
+- **Achieve:** Maintain a steady pace for a fulfilling ride.
 
 #### Checking GPS maps
-**Gear up:** Make occasional stops to check the app.
-
-**Feeling:** Annoyance, fatigue, and doubts.
-
-**Strive:** Optimize the time using the app.
-
-**Achieve:** Navigating without unnecessary delays.
+- **Gear up:** Make occasional stops to check the app.
+- **Feeling:** Annoyance, fatigue, and doubts.
+- **Strive:** Optimize the time using the app.
+- **Achieve:** Navigating without unnecessary delays.
 
 #### Completing the journey
-**Gear up:** Finish the ride with a sense of satisfaction.
-
-**Feeling:** Resilience, and accomplishment.
-
-**Strive:** Overcome challenges along the route.
-
-**Achieve:** Conquer fatigue.
+- **Gear up:** Finish the ride with a sense of satisfaction.
+- **Feeling:** Resilience, and accomplishment.
+- **Strive:** Overcome challenges along the route.
+- **Achieve:** Conquer fatigue.
 
 #### Analyzing data on the app
-**Gear up:** Dive into the app's data.
+- **Gear up:** Dive into the app's data.
+- **Feeling:** Resignation, confusion, and disappointment..
+- **Strive:** Understand the app's data.
+- **Achieve:** Feeling a bit uninspired with the app.
 
-**Feeling:** Resignation, confusion, and disappointment..
-
-**Strive:** Understand the app's data.
-
-**Achieve:** Feeling a bit uninspired with the app.
 ## User Persona
 ### Pov Cristina
-
 > Cristina IS A cyclist WHO NEEDS a reliable app to plan her rides more safely BECAUSE she had a run-in with a car.
 
