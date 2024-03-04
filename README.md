@@ -78,11 +78,14 @@ Discovering a user-friendly app, saving time on their rides, and easily navigati
 - **Strive:** Understand the app's data.
 - **Achieve:** Feeling a bit uninspired with the app.
 
+
 ## User Persona
 ### Pov Cristina
+
 > Cristina IS A cyclist WHO NEEDS a reliable app to plan her rides more safely BECAUSE she had a run-in with a car.
 
 ### Empathy map
+
 #### She thinks
 - “I'm going to drop some biking tips for my subscribers.”
 - “Getting a bike basket for my cat sounds like a cool idea.”
@@ -118,16 +121,68 @@ She gains confidence, boosting her physical performance through cycling.
 - City: Lima.
 - Family: 1 cat.
 - Occupation: Influencer.
-### Goals:
+#### Goals:
 - Ride, ride, ride.
 - Getting THE bike.
 - Continue creating content for her social media.
-### Frustrations: 
+#### Frustrations: 
 - Wastes time in mixed traffic with cars.
 - Gets easily disoriented on unfamiliar routes.
-### Scenario
+#### Scenario
 Cristina has started sharing her bike rides on a YouTube channel, leading an active life and developing a passion for cycling over the past 3 months. She is preparing for a trip outside Lima.
-### Motivations
+#### Motivations
 With limited experience, she has already had an accident with a car and feels some anxiety in heavily trafficked areas. She is determined to overcome her fears and, in the process, share the experience with her new subscribers.
-### Quote
+#### Quote
 > "It would be a good idea to buy a basket to ride with my cat"
+
+### Pov Francisco
+> Francisco IS A cyclist WHO NEEDS an app that lets him map out his routes BECAUSE he can make it to work on time.
+
+### Empathy map
+
+#### He thinks
+- “I want to hit the road without fearing reckless drivers.”
+- “I want an app without hidden fees.”
+- “I stretch before every ride.”
+- “I thrive on pushing my limits and moving forward.”
+#### He hears
+- Loud car honks.
+- Texts from his wife while he's on the road.
+- The increasing number of cycling accidents each day.
+- Podcasts about cycling.
+#### He sees
+- Apps with a handful of truly useful features.
+- Dealing with some pretty careless drivers when biking.
+- The city lacks more bike lanes.
+- More bike-friendly hours.
+#### He does
+- Search for a feature-packed app for free
+- Hits the biking trails four times a week.
+- Travels on exclusive bike paths where available.
+- Avoids high-speed traffic routes.
+#### Efforts
+Rise and shine before the traffic chaos kicks in.
+Take some gentle stretches to ward off cramps and injuries.
+#### Outcomes
+Get to work smoothly and early after his bike rides.
+He maintains fitness, regardless of age.
+### Archetype
+- Francisco Gonzáles.
+- Speed Racer.
+- @fran_speedracer
+- Age: 45 years.
+- Education: University.
+- City: Lima.
+- Family: Married, 1 child.
+- Occupation: HR Manager.
+#### Goals
+- Daily cycle.
+- Avoid injuries that may affect work.
+- Maximize bike rides.
+#### Frustrations
+- Dealing with reckless motorists.
+- Gets overwhelmed with apps that don't offer the functions he needs.
+#### Scenario
+Francisco is a professional living in Lima and has been working at a logistics company for 12 years. He regrets the lack of dedicated cyclist paths near his home.
+#### Quote
+> "I always make it a point to stretch before hitting the road."
