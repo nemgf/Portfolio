@@ -251,3 +251,87 @@ In crafting the SWOT analysis, I took into account that both direct and indirect
 - Other apps with longer market presence.
 - Difficulty in differentiation from other apps.
 - Possibility of other apps adopting a similar achievement system.
+
+## Market Research
+- **Objective:** This survey is all about digging into what cyclists really want in an app and how enthusiastic they are about embracing it.
+- **Audience:** People between 20 and 54 gearing up to use the app for their biking rides.
+- **Survey Squad:** 45 awesome individuals.
+- **Tech Toolbox:** We're rocking Google Forms.
+
+Hit up the survey with just a [CLICK.](https://docs.google.com/forms/d/1r050t3bvYQsEHd0xmX4jO9-ywmGbo56igTpqdKcBo54)
+
+![Market research](https://www.nemgf.com/wp-content/uploads/2024/03/Market-Research-1.png)
+![Market research](https://www.nemgf.com/wp-content/uploads/2024/03/Market-Research-2.png)
+![Market research](https://www.nemgf.com/wp-content/uploads/2024/03/Market-Research-3.png)
+![Market research](https://www.nemgf.com/wp-content/uploads/2024/03/Market-Research-4.png)
+![Market research](https://www.nemgf.com/wp-content/uploads/2024/03/Market-Research-5.png)
+![Market research](https://www.nemgf.com/wp-content/uploads/2024/03/Market-Research-6.png)
+![Market research](https://www.nemgf.com/wp-content/uploads/2024/03/Market-Research-7.png)
+
+Out of a total of 45 participants, including both genders, here are the results:
+
+- 35.6% have been cycling for over 20 years, 17.8% for more than 10 years, and another 11.5% for more than 5 years.
+- 82.2% of the total use their bicycles for urban rides, while 17.8% use them as a work tool, in contrast to the 13.3% who aim to participate in sports events.
+- Most of them (66.7%) claims not to have used a cycling app, indicating a lack of identification with a solution to their needs.
+- 95.6% of participants prefer using an app that doesn't charge a membership fee, with ease of use being the main functionality.
+- 55.6% chose a function to record their bike rides, 53.3% want the option to plan these rides, and 40% prefer an app that measures their heart rate.
+
+After that, participants brought up ideas like:
+
+- Recommending bike lane routes.
+- Calculating calorie burn based on height and weight.
+- Identifying safe routes, traffic conditions, and secure parking.
+- Highlighting assistance points and gas stations with tire inflation machines.
+- Incorporating offline maps and GPS.
+- Integrating a social network, marketplace, and online music service.
+
+From this feedback, it's clear that cyclists want an app that offers a reliable and diverse range of features, all while being user-friendly.
+
+Here's the survey link again: [CLICK HERE.](https://docs.google.com/forms/d/1r050t3bvYQsEHd0xmX4jO9-ywmGbo56igTpqdKcBo54)
+
+## OKRs & KPIs
+**OKR:**
+- Encourage ongoing usage of premium features by cyclists.
+
+**KPI:**
+- Number of users with a monthly subscription.
+- Number of users who opted to take on challenges.
+
+**OKR:**
+- Boost the registration count of cyclists.
+**KPI:**
+- Number of app downloads.
+- Number of logins from the website.
+- Number of registrations during Q3.
+- Number of dropouts.
+
+**OKR:**
+- Become the top cycling app by Q4 2023.
+**KPI:**
+- Number of satisfied users.
+- Number of dissatisfied users.
+- Number of users uninstalling the application.
+- Quantity of complaints received by the application.
+
+## Milestones
+### Q1 Challenge Development
+In this first quarter, the app development kicks off, and we're also structuring the types of challenges users need to accomplish to keep accessing premium features without a monthly fee.
+### Q2 Grand Unveiling
+Once this phase is complete, the app will be primed with all its features, and we'll be announcing the official launch date.
+### Q3 Increase in App Users
+Throughout this timeframe, we'll closely monitor the influx of new users subscribing to the app.
+### Q4 Claiming the User Throne
+In this phase, we'll assess the app's traction, measuring its popularity through both organic growth and strategic paid efforts.
+## Risk Matrix
+![Risk Matrix](https://www.nemgf.com/wp-content/uploads/2024/03/risk-matrix-1.png)
+![Risk Matrix](https://www.nemgf.com/wp-content/uploads/2024/03/risk-matrix-2.png)
+## Business Model
+### FREEMIUM (Hybrid app)
+
+For the initial month, all product features, spanning from basic to premium functions that are typically paid for in other cycling apps, will be fully accessible with no restrictions.
+
+Following this trial period, cyclists can continue using all basic functions. To unlock the more advanced features, they have the option to subscribe monthly.
+
+An alternative approach for cyclists to enjoy premium features is by engaging in challenges through bike-related activities. Upon successfully completing a challenge, they'll earn a medal, which can be accumulated. Cyclists can then exchange these medals to access the mentioned advanced features.
+
+The app will serve as a recording tool for activities undertaken with the bicycle.
