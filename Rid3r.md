@@ -12,6 +12,12 @@ Seems like a lot of cyclists are missing a detailed tracking app for their rides
 - Fernando Vergel UX Designer
 - [@nemgf](https://www.github.com/nemgf)
 
+[![Notion](https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=notion&logoColor=white)](https://nemgf.notion.site/Fernando-Vergel-47d3f9dee2ab419aba7d9d1a186f686d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandovergel/)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/fernandovergel/)
+
+## Tools
+
 [![Figma](https://img.shields.io/badge/Figma-Design-orange)](https://www.figma.com/file/TedyPr3lK9xa9wZuVsOTgi/Rid3r?type=design&node-id=101%3A2&mode=design&t=uCS89HW7HwxEVRzT-1)
 [![FigJam](https://img.shields.io/badge/FigJam-Collaboration-green)](https://www.figma.com/file/XzRZJ0atnliDmBIY2PGU6f/Rid3r?type=whiteboard&node-id=2%3A386&t=oAxyOzHF0gLMRM4Z-1)
 [![Google Forms](https://img.shields.io/badge/Google_Forms-Surveys-yellow)](https://docs.google.com/forms/d/1r050t3bvYQsEHd0xmX4jO9-ywmGbo56igTpqdKcBo54/)
@@ -78,14 +84,11 @@ Discovering a user-friendly app, saving time on their rides, and easily navigati
 - **Strive:** Understand the app's data.
 - **Achieve:** Feeling a bit uninspired with the app.
 
-
 ## User Persona
 ### Pov Cristina
-
 > Cristina IS A cyclist WHO NEEDS a reliable app to plan her rides more safely BECAUSE she had a run-in with a car.
 
 ### Empathy map
-
 #### She thinks
 - “I'm going to drop some biking tips for my subscribers.”
 - “Getting a bike basket for my cat sounds like a cool idea.”
@@ -139,7 +142,6 @@ With limited experience, she has already had an accident with a car and feels so
 > Francisco IS A cyclist WHO NEEDS an app that lets him map out his routes BECAUSE he can make it to work on time.
 
 ### Empathy map
-
 #### He thinks
 - “I want to hit the road without fearing reckless drivers.”
 - “I want an app without hidden fees.”
