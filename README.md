@@ -82,7 +82,7 @@ Discovering a user-friendly app, saving time on their rides, and easily navigati
 ### Pov Cristina
 > Cristina IS A cyclist WHO NEEDS a reliable app to plan her rides more safely BECAUSE she had a run-in with a car.
 
-## Empathy map
+### Empathy map
 #### She thinks
 - “I'm going to drop some biking tips for my subscribers.”
 - “Getting a bike basket for my cat sounds like a cool idea.”
