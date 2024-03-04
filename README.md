@@ -1,7 +1,7 @@
 ![Logo](https://www.nemgf.com/wp-content/uploads/2024/03/Rid3r-logo.png)
 
 # Rid3r
-##Ride on time
+## *Ride on time*
 
 Seems like a lot of cyclists are missing a detailed tracking app for their rides. So, this product is stepping in to fill that gap.
 
