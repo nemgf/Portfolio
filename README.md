@@ -82,3 +82,51 @@ Discovering a user-friendly app, saving time on their rides, and easily navigati
 ### Pov Cristina
 > Cristina IS A cyclist WHO NEEDS a reliable app to plan her rides more safely BECAUSE she had a run-in with a car.
 
+## Empathy map
+#### She thinks
+- “I'm going to drop some biking tips for my subscribers.”
+- “Getting a bike basket for my cat sounds like a cool idea.”
+- “Imagine an app that lets me whip up my own routes.”
+#### She hears
+- Dealing car honks, city noise, and unfriendly comments from drivers and pedestrians.
+- Learning safe travel tips from fellow cyclists.
+- Grooving to some relaxing  tunes during breaks on her trip.
+#### She sees
+- Variety in bike prices.
+- Feature-rich cycling apps.
+- Exploring new paths online right from her computer.
+- Cycling through the hustle and bustle of city traffic.
+#### She does
+- She shares a lot of content about her rides.
+- Connects with fellow influencers who focus on cycling.
+- Prefers routes that include dedicated bike lanes.
+- Save up to get herself a better bicycle.
+#### Efforts
+Try to get calm on challenging routes.
+Opt to riding solo on paths only for bikes.
+Stay committed to showcasing her biking adventures.
+#### Outcomes
+Her biking channel is getting noticed.
+Conquers her fears, avoiding mishaps.
+She gains confidence, boosting her physical performance through cycling.
+### Archetype
+- Cristina Hernández.
+- Bikeholic.
+- @cricrih
+- Age: 27 years.
+- Education: Technical.
+- City: Lima.
+- Family: 1 cat.
+- Occupation: Influencer.
+### Goals:
+- Ride, ride, ride.
+- Getting THE bike.
+- Continue creating content for her social media.
+### Frustrations: 
+- Wastes time in mixed traffic with cars.
+- Gets easily disoriented on unfamiliar routes.
+### Scenario
+Cristina has started sharing her bike rides on a YouTube channel, leading an active life and developing a passion for cycling over the past 3 months. She is preparing for a trip outside Lima.
+### Motivations
+With limited experience, she has already had an accident with a car and feels some anxiety in heavily trafficked areas. She is determined to overcome her fears and, in the process, share the experience with her new subscribers.
+> "It would be a good idea to buy a basket to ride with my cat"
