@@ -9,8 +9,8 @@ Seems like a lot of cyclists are missing a detailed tracking app for their rides
 
 ## Author
 
-![Image](https://www.nemgf.com/wp-content/uploads/2024/03/301059274_10158554540452397_8757439669546729388_n-e1709569847787.png))
-Fernando Vergel UX Designer
+![Image](https://www.nemgf.com/wp-content/uploads/2024/03/301059274_10158554540452397_8757439669546729388_n-e1709569847787.png)
+- Fernando Vergel UX Designer
 - [@nemgf](https://www.github.com/nemgf)
 [![Figma](https://img.shields.io/badge/Figma-Design-orange)](https://www.figma.com/file/TedyPr3lK9xa9wZuVsOTgi/Rid3r?type=design&node-id=101%3A2&mode=design&t=uCS89HW7HwxEVRzT-1)
 [![FigJam](https://img.shields.io/badge/FigJam-Collaboration-green)](https://www.figma.com/file/XzRZJ0atnliDmBIY2PGU6f/Rid3r?type=whiteboard&node-id=2%3A386&t=oAxyOzHF0gLMRM4Z-1)
