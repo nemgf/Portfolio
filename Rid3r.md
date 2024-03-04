@@ -188,3 +188,66 @@ He maintains fitness, regardless of age.
 Francisco is a professional living in Lima and has been working at a logistics company for 12 years. He regrets the lack of dedicated cyclist paths near his home.
 #### Quote
 > "I always make it a point to stretch before hitting the road."
+
+## Market Estimation
+To assess the market, I sought data from cycling groups after finding no statistics in Peru's 2017 census. One group in Lima, per their social media, had conducted an independent census.
+
+With no response from them, II pursued the Total Addressable Market (TAM) and Serviceable Addressable Market (SAM) using external data (see references). For specific age groups, I referred to a video on the cyclist census in Lima due to the unavailability of the document or contact with that cyclist group.
+
+Finally, I checked the National Institute of Statistics and Informatics for the population figures in Peru and defined it as a micro-niche.
+
+- ***TAM*** Estimated population in South America for 2022* **437,694,435**
+- ***SAM*** Estimated population in Peru for 2022** **32,275,736**
+- ***SOM*** Estimated population of people aged 20 to 54 living in Peru*** **14,438,436**
+
+#### SOURCES
+* *Taken from [Population Pyramid.net](https://www.populationpyramid.net/south-america/2022/)
+* **Taken from [Cia.gov](https://www.cia.gov/the-world-factbook/countries/peru/)
+* ***Taken [fromInei.gob.pe](http://censos2017.inei.gob.pe)
+
+### Targeting
+- **Market:** Individuals in Peru aged 20 to 54.
+- **Segment:** Peruvians aged 20 to 54 who commute by bicycle.
+- **Niche:** Those aged 20 to 54 in Peru who actively plan their bicycle outings.
+- **Micro niche:** Adults aged 20 to 54 who intend to utilize the app for organizing their bicycle journeys.
+
+I began with the SOM, defining it as my market, and progressively narrowing down to the micro niche. While the app could be used by those outside the specified age range, my focus for the micro niche is on adults, Notably those comfortable using apps and likely to be economically active.
+
+## Perceptual map
+In today's cycling apps, users are offered limited functional choices, and many even include activities beyond cycling. Our app, on the other hand, empowers cyclists to access premium services without the usual monthly fees found in other apps. enhancing their overall cycling experience.
+### DIRECT COMPETITION (Cycling only)
+- Specialized.
+- Trek.
+- Ride with GPS.
+- Zeopoxa.
+### INDIRECT COMPETITION (Cycling and other activities)
+- Strava.
+- Relive.
+- Garmin.
+- Google Fit.
+- Map My Ride.
+- Wahoo.
+- Training Peaks.
+- Zwift*
+*Indoor cycling.
+
+![Mapa Perceptual](https://www.nemgf.com/wp-content/uploads/2024/03/Perceptual-map.png)
+
+## SWOT
+In crafting the SWOT analysis, I took into account that both direct and indirect competitor apps handle metrics in a similar fashion, whether it's for cycling or other activities like running or trekking. Most of these apps have been around for a significant period.
+#### STRENGTHS
+- Enhanced trip management.
+- App available in Spanish.
+- Achievement of goals that can be redeemed for premium features.
+#### WEAKNESSES
+- Limited availability of exclusive apps for cyclists.
+- Surge in cyclists after the pandemic.
+- Sustaining premium features through goal achievements.
+#### OPPORTUNITIES
+- Providing more options without charging for premium services.
+- Rapidly gaining popularity.
+- Expanding across all of South America.
+#### THREATS
+- Other apps with longer market presence.
+- Difficulty in differentiation from other apps.
+- Possibility of other apps adopting a similar achievement system.
