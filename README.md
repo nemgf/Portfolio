@@ -129,4 +129,5 @@ She gains confidence, boosting her physical performance through cycling.
 Cristina has started sharing her bike rides on a YouTube channel, leading an active life and developing a passion for cycling over the past 3 months. She is preparing for a trip outside Lima.
 ### Motivations
 With limited experience, she has already had an accident with a car and feels some anxiety in heavily trafficked areas. She is determined to overcome her fears and, in the process, share the experience with her new subscribers.
+### Quote
 > "It would be a good idea to buy a basket to ride with my cat"
