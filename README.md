@@ -3,6 +3,7 @@
 # Rid3r
 *Ride on time*
 
+## Presentation
 Seems like a lot of cyclists are missing a detailed tracking app for their rides. So, this product is stepping in to fill that gap.
 
 ## Author
