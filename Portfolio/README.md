@@ -396,6 +396,7 @@ Once the business model and, above all, the value proposition are identified, I 
 
 ## Thank you!
 I appreciate your time and insights! Feel free to reach out. You can contact me via email at: [fernandovergel@gmail.com](mailto:fernandovergel@gmail.com)
-<p> Connect with me on LinkedIn: [in/fernandovergel/](https://www.linkedin.com/in/fernandovergel/) </p>
+
+Connect with me on LinkedIn: [in/fernandovergel/](https://www.linkedin.com/in/fernandovergel/)
 
 Check my [portfolio](https://nemgf.notion.site/Fernando-Vergel-47d3f9dee2ab419aba7d9d1a186f686d)
