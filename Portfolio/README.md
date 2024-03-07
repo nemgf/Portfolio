@@ -380,3 +380,11 @@ The product, akin to the client's efforts, emerges from a balance of joys and re
 - Ensuring safety on the journey
 - Engaging in sports
 - Easing everyday stress
+
+## Business Model Canvas
+![Business Model Canvas](https://www.nemgf.com/wp-content/uploads/2024/03/BusinessModelCanvas.png)
+During the development of the brief, I conducted surveys, and the results revealed some pain points that were added to both the VPC and the MBC.
+
+However, these functionalities remain as technical debt to be addressed in future iterations of the product.
+
+Once the business model and, above all, the value proposition are identified, I will move on to the user experience.
