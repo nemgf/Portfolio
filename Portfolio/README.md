@@ -3,15 +3,13 @@
 # Rid3r
 *Ride on time*
 
-> (a product management case by Fernando Vergel)
-
 ## Presentation
 Seems like a lot of cyclists are missing a detailed tracking app for their rides. So, this product is stepping in to fill that gap.
 
 ## Author
 
 ![Image](https://www.nemgf.com/wp-content/uploads/2024/03/301059274_10158554540452397_8757439669546729388_n-1.png)
-- Fernando Vergel UX Designer
+- Fernando Vergel Product Manager
 - [@nemgf](https://www.github.com/nemgf)
 
 [![Notion](https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=notion&logoColor=white)](https://nemgf.notion.site/Fernando-Vergel-47d3f9dee2ab419aba7d9d1a186f686d)
@@ -398,6 +396,6 @@ Once the business model and, above all, the value proposition are identified, I 
 
 ## Thank you!
 I appreciate your time and insights! Feel free to reach out. You can contact me via email at: [fernandovergel@gmail.com](mailto:fernandovergel@gmail.com)
-> Connect with me on LinkedIn: [in/fernandovergel/](https://www.linkedin.com/in/fernandovergel/)
+<p> Connect with me on LinkedIn: [in/fernandovergel/](https://www.linkedin.com/in/fernandovergel/) </p>
 
 Check my [portfolio](https://nemgf.notion.site/Fernando-Vergel-47d3f9dee2ab419aba7d9d1a186f686d)
