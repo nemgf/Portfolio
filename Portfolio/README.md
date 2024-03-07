@@ -335,3 +335,47 @@ Following this trial period, cyclists can continue using all basic functions. To
 An alternative approach for cyclists to enjoy premium features is by engaging in challenges through bike-related activities. Upon successfully completing a challenge, they'll earn a medal, which can be accumulated. Cyclists can then exchange these medals to access the mentioned advanced features.
 
 The app will serve as a recording tool for activities undertaken with the bicycle.
+
+## Value Proposition Canvas
+Using the Value Proposition Canvas, I outlined the product values (refer to Brief: Values). I pinpointed the joys and relievers in contrast to the challenges cyclists face.
+
+The product, akin to the client's efforts, emerges from a balance of joys and relievers, shaping our unique value proposition. Further specifics on this will be outlined in the MBC below.
+
+### PRODUCT & SERVICES
+- Local Vendor Alliances
+- Unlock premium with challenges & medals
+- Multi-platform
+- Networking in cycling circles
+- Image gallery
+### GAIN CREATORS
+- Most frequented bike path map
+- Boost in self-esteem
+- User-friendly interface
+- Riding companionship
+- Enhanced fitness
+- Route snapshots
+### GAINS
+- Get premium benefits without subscribing
+- Boost rides management
+- Plan routes effortlessly
+- Keep track of trips
+- Effortless navigation
+### PAINS
+- Outdoor motivation challenges
+- Handling erratic drivers
+- Time lost in transit
+- Missed journey milestones
+- Sparse cyclist interactions
+### PAIN RELIEVERS
+- Multiplatform
+- Discover local support
+- Enhance your ride with ease
+- Find nearby bike parking
+- Leverage GPS and biometrics
+### CUSTOMER JOBS
+- Biking adventures
+- Planning cycling trips
+- Staying active
+- Ensuring safety on the journey
+- Engaging in sports
+- Easing everyday stress
