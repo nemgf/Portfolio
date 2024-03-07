@@ -337,6 +337,7 @@ An alternative approach for cyclists to enjoy premium features is by engaging in
 The app will serve as a recording tool for activities undertaken with the bicycle.
 
 ## Value Proposition Canvas
+![Value Proposition Canvas](https://www.nemgf.com/wp-content/uploads/2024/03/image-15.png)
 Using the Value Proposition Canvas, I outlined the product values (refer to Brief: Values). I pinpointed the joys and relievers in contrast to the challenges cyclists face.
 
 The product, akin to the client's efforts, emerges from a balance of joys and relievers, shaping our unique value proposition. Further specifics on this will be outlined in the MBC below.
