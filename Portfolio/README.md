@@ -389,3 +389,7 @@ During the development of the brief, I conducted surveys, and the results reveal
 However, these functionalities remain as technical debt to be addressed in future iterations of the product.
 
 Once the business model and, above all, the value proposition are identified, I will move on to the user experience.
+
+## Wireframes
+![Paper](https://www.nemgf.com/wp-content/uploads/2024/03/papersketches.png)
+![Hi-fi](https://www.nemgf.com/wp-content/uploads/2024/03/hififreame.png)
