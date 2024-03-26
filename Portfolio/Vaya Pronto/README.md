@@ -1,4 +1,4 @@
-![Vaya Pronto](https://www.nemgf.com/wp-content/uploads/2024/03/vayaprontologo.png))
+![Vaya Pronto](https://www.nemgf.com/wp-content/uploads/2024/03/vayaprontologo-e1711444523398.png)
 
 
 
