@@ -1,48 +1,48 @@
-![Vaya Pronto](https://i.imgur.com/myATWsg.png)
+![Vaya Pronto](https://www.nemgf.com/wp-content/uploads/2024/03/vayaprontologo.png))
 
 
 
-¡Bienvenido a Vaya Pronto, tu aplicación de entrega de comida a domicilio! 🍔🚀
+Food Delivery made easy with Vaya Pronto! 🍔🚀
 
 
 
-## Descripción
+## Description
 
-Vaya Pronto es una aplicación diseñada para facilitar el proceso de ordenar comida desde la comodidad de tu hogar. Con una amplia selección de restaurantes asociados y una interfaz fácil de usar, encontrarás algo delicioso para satisfacer tus antojos en cualquier momento.
+Craving something delicious? Vaya Pronto - Spanish for 'Go Fast!', is your new delivery app with a super-friendly interface. Browse restaurants, explore menus, and customize your order - all on your phone, no takeout menus needed!  We make it easy to discover new favorites or get your food fast. Download Vaya Pronto - convenient, user-friendly food delivery at your fingertips!
 
-## Historias de Usuarios
+## User Stories in Action
 
-CLIENTE FINAL
+END USER
 
-* Como cliente, quiero poder pedir comida de restaurantes locales y recibir entregas rápidas y convenientes en mi domicilio.
+* As a customer, I want to be able to order food from local restaurants and receive fast and convenient deliveries at my doorstep.
 
-RESTAURANTE
+RESTAURANT
 
-* Como restaurante, quiero poder registrar mi negocio en la plataforma y gestionar pedidos en línea.
+* As a restaurant owner, I want to be able to register my business on the platform and manage online orders.
 
-REPARTIDOR
+DELIVERY DRIVER
 
-* Como repartidor, quiero poder aceptar pedidos de comida y entregarlos a los clientes de manera eficiente para ganar ingresos adicionales.
+* As a delivery driver, I want to be able to accept food orders and efficiently deliver them to customers to earn additional income.
 
-## Características
+## Features
 
-* Explora restaurantes: Navega por una amplia variedad de restaurantes cercanos.
-* Menús detallados: Consulta los menús completos de cada restaurante con descripciones detalladas de los platos.
-* Fácil ordenamiento: Ordena tus platos favoritos con solo unos pocos clicks.
-* Seguimiento en tiempo real: Sigue el progreso de tu pedido desde la cocina hasta tu puerta.
-* Pagos seguros: Realiza pagos de forma segura utilizando diferentes métodos de pago disponibles.
-
-
-
-## Funcionalidades
-
-* Búsqueda y pedido de comida en línea.
-* Registro y gestión de restaurantes en la plataforma.
-* Asignación y seguimiento de entregas por parte de los repartidores.
+* Discover Restaurants: Explore a wide range of nearby restaurants effortlessly.
+* Detailed Menus: View comprehensive menus for each restaurant, complete with detailed dish descriptions.
+* Easy Ordering: Order your favorite dishes with just a few clicks for a seamless experience.
+* Real-Time Tracking: Track your order's progress from the kitchen to your doorstep in real-time.
+* Real-Time Tracking: Track your order's progress from the kitchen to your doorstep in real-time.
 
 
 
-## Tecnologías
+## Functionalities
+
+* Online food ordering and delivery.
+* Restaurant registration and management on the platform.
+* Assignment and tracking of deliveries by couriers
+
+
+
+## Technologies
 
 Project Manager:
 
@@ -76,7 +76,7 @@ Testing QA:
 [![JMeter](https://img.shields.io/badge/JMeter-Performance_Testing-orange)](https://jmeter.apache.org/)
 
 
-## Links a Google Drive
+## Google Forms links
 
 [Plataforma de Comida a Domicilio (restaurante)](https://docs.google.com/forms/d/1bFbFzjUfeHPxnLx26b71myUYDN4UjqGg6T7Pu2If2ZQ/edit?usp=drive_web)
 
@@ -84,19 +84,21 @@ Testing QA:
 
 [Plataforma de Comida a Domicilio (repartidor)](https://docs.google.com/forms/d/17EGGdHbwPU2N1YuRGeFEH8_lmV7iq_bkrJBWB9HevTw/edit)
 
-[Figjam](https://www.figma.com/file/oMB2ylf5sAU2niDMRnxTNM/No-Country-C16-20-n-node-react?type=whiteboard&node-id=0%3A1&t=534SRptF6V2ftWq8-1)
+## Link to Figjam
 
-TESTING
+https://www.figma.com/file/oMB2ylf5sAU2niDMRnxTNM/No-Country-C16-20-n-node-react?type=whiteboard&node-id=0%3A1&t=534SRptF6V2ftWq8-1
+
+## Testing
 
 https://drive.google.com/drive/folders/1BK4OfTn0PybIJfHVgQMzIwmM-AG67BMG?usp=drive_link
 
 
-## Equipo: C16-20-N-Node-React
+## Team: C16-20-N-Node-React
 
-| Rol               | Nombre                    | Redes                                                                                                                             |
+| Role               | Name                    | Social Network                                                                                                                             |
 | :---------------- | :-----------------------  | :-------------------------------------------------------------------------------------------------------------------------------- |
 | `Project Manager` | Fernando Vergel           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/nemgf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/fernandovergel/)                 |
-| `UX/UI Designer`  | Fernando Vergel           | [![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion)](https://nemgf.notion.site/Fernando-Vergel-47d3f9dee2ab419aba7d9d1a186f686d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/fernandovergel/)              |
+| `UX/UI Designer`  | Fernando Vergel           | [![Portfolio](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion)](https://nemgf.notion.site/Fernando-Vergel-47d3f9dee2ab419aba7d9d1a186f686d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/fernandovergel/)              |
 | `Front End`       | Nahuel Lupe               | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/nahuellupe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/nahuellupe/)           |
 | `Front End`       | Víctor Fernandez          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/vic-ferr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/victor-h-fernandez-p/)                            |
 | `Back End`        | Leonel Toloza           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/LeoToloza1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/leonel-toloza/)              |  
@@ -114,6 +116,6 @@ https://vayapronto.onrender.com/
 https://youtu.be/YOCreHHn4Uk
 
 
-## Prototipo
+## Prototype
 
 [Figma](https://www.figma.com/proto/ZGN1nPmv8dpcSJUNEeYZfJ/No-Country-C16-20-n?page-id=34%3A12&type=design&node-id=482-396&viewport=141%2C761%2C0.06&t=1z8SZYNkceIJBaYi-1&scaling=scale-down&starting-point-node-id=482%3A396&mode=design)
