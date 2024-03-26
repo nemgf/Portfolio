@@ -78,11 +78,11 @@ Testing QA:
 
 ## Google Forms links
 
-[Plataforma de Comida a Domicilio (restaurante)](https://docs.google.com/forms/d/1bFbFzjUfeHPxnLx26b71myUYDN4UjqGg6T7Pu2If2ZQ/edit?usp=drive_web)
+[Food Delivery Plataform (restaurant)](https://docs.google.com/forms/d/1bFbFzjUfeHPxnLx26b71myUYDN4UjqGg6T7Pu2If2ZQ/edit?usp=drive_web)
 
-[Plataforma de Comida a Domicilio (cliente final)](https://docs.google.com/forms/d/1eiFgIfF3BX0pbRW1Ve87Hq9WDPqDv9mNTviQsrlcZnY/edit?usp=drive_web)
+[Food Delivery Plataform (end user)](https://docs.google.com/forms/d/1eiFgIfF3BX0pbRW1Ve87Hq9WDPqDv9mNTviQsrlcZnY/edit?usp=drive_web)
 
-[Plataforma de Comida a Domicilio (repartidor)](https://docs.google.com/forms/d/17EGGdHbwPU2N1YuRGeFEH8_lmV7iq_bkrJBWB9HevTw/edit)
+[Food Delivery Plataform (delivery driver)](https://docs.google.com/forms/d/17EGGdHbwPU2N1YuRGeFEH8_lmV7iq_bkrJBWB9HevTw/edit)
 
 ## Link to Figjam
 
