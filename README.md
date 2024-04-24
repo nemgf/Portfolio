@@ -11,7 +11,7 @@
 💡 Hello, I'm Fer! I've been creating user-friendly designs as a Graphic Designer first, then moved into Web Design, now as a User Experience Designer. But what I do best is understanding people's needs and turning them into great experiences.
 
 
-In 2013, I transitioned to HVAC, collaborating with great people to deliver client-specific solutions, ensuring good communication as I managed on-site and remote teams. By 2022, I circled back to design, specializing in UX.
+In 2013, I transitioned to HVAC, collaborating with great people to deliver client-specific solutions, ensuring good communication as I managed on-site and remote teams. By 2022, I circled back to design, specializing in UX, and collaborating in agile frameworks with multidisciplinary teams.
 
 I've realized it's more than designing interfaces, it's about empathizing with people.
 
