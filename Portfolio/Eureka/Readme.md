@@ -1,7 +1,7 @@
 # E-learning Platform: EUREKA
 
 
-![Eureka logo](https://www.nemgf.com/wp-content/uploads/2024/04/Eureka-english-video.mp4)
+![Eureka logo](https://github.com/nemgf/Portfolio/assets/146204093/ce0b9b56-c806-48da-a0b5-281d093f3a5f)
 
 ## Project Description
 
@@ -10,7 +10,7 @@ Eureka is an online E-learning platform offering a wide variety of courses that 
 
 ## Mockups and Prototype Design
 
-[VIDEO](https://www.nemgf.com/wp-content/uploads/2024/04/Eureka-clip.mp4)
+[VIDEO](https://www.nemgf.com/wp-content/uploads/2024/04/Eureka-english-video.mp4)
 ## Minimum Viable Product (MVP)
  - #### Student and Teacher Registration: 
   This module streamlines user onboarding for both learners and educators on Eureka. Learners can easily sign up, browse available courses, and keep tabs on their progress. Meanwhile, educators can jump right in and create new learning content, as well as manage their own courses.
