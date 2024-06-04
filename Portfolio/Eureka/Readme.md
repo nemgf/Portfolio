@@ -96,7 +96,7 @@ Testing QA:
 
 ## Video Demo Day
 
-[VIDEO](https://www.nemgf.com/wp-content/uploads/2024/06/Eureka-presentation.mp4)
+[![Eurekapresentacion](https://github.com/nemgf/Portfolio/assets/146204093/1899da50-5525-43a1-b670-77aca9ba87f2)](https://www.nemgf.com/wp-content/uploads/2024/06/Eureka-presentation.mp4)
 
 ## Prototype
 
