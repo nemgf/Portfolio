@@ -1,8 +1,8 @@
 # E-learning Platform: EUREKA
 
 
+![Eureka logo](https://github.com/nemgf/Portfolio/assets/146204093/ce0b9b56-c806-48da-a0b5-281d093f3a5f)
 
-IMAGEN
 ## Project Description
 
 Eureka is an online E-learning platform offering a wide variety of courses that empowers both educators and learners. Educators can leverage our user-friendly interface to create and curate engaging courses on a wide range of topics. Learners benefit from a diverse course library, allowing them to pursue their educational goals in a convenient and flexible format.
