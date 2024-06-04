@@ -96,7 +96,7 @@ Testing QA:
 
 ## Video Demo Day
 
-<img src="https://img.shields.io/badge/Video Preview%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+[VIDEO](https://www.nemgf.com/wp-content/uploads/2024/06/Eureka-presentation.mp4)
 
 ## Prototype
 
