@@ -100,13 +100,13 @@ Testing QA:
 
 ## Prototype
 
- - Prototype crafted in Figma [Link]()
+ - Prototype crafted in Figma [Go to the project](https://www.figma.com/proto/9Pqwgz3rr1Rtk47jgk8ive/Eureka?page-id=538%3A4274&node-id=538-4275&viewport=541%2C225%2C0.02&t=PZEXiW0f00gRlG2J-1&scaling=min-zoom&starting-point-node-id=538%3A4275)
 
 
 ## Deploy
 
- - Front End deployment crafted in Vercel [Link](https://s14-11-m-java-e5su.vercel.app/) 
- - Back End deployment crafted in Railway [Link]()
+ - Front End deployment crafted in Vercel [Go to the project](https://s14-11-m-java-e5su.vercel.app/) 
+ - Back End deployment crafted in Railway [Go to the project]()
 
 ## Project Documentation
  - [Project in Miro](https://miro.com/app/board/uXjVKby_wLs=/)
