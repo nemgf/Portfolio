@@ -76,7 +76,7 @@ Testing QA:
 
 ## Team
 
-| Rol               | Nombre                    | Redes                                                                                                                             |
+| Role              | Names                     | Social Network                                                                                                                    |
 | :---------------- | :-----------------------  | :-------------------------------------------------------------------------------------------------------------------------------- |
 | `Project Manager` | Sandra Rodriguez           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/sandris192024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/sandra-rodriguez-133687275/)                 |
 | `UX/UI Designer`  | Fernando Vergel          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/nemgf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/fernandovergel/)            | [![Notion](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=notion)](https://nemgf.notion.site/Fernando-Vergel-47d3f9dee2ab419aba7d9d1a186f686d)             |
