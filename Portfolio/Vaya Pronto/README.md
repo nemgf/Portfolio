@@ -8,7 +8,7 @@ Food Delivery made easy with Vaya Pronto! 🍔🚀
 
 ## Description
 
-Craving something delicious? Vaya Pronto - Spanish for 'Go Fast!', is your new delivery app with a super-friendly interface. Browse restaurants, explore menus, and customize your order - all on your phone, no takeout menus needed!  We make it easy to discover new favorites or get your food fast. Download Vaya Pronto - convenient, user-friendly food delivery at your fingertips!
+Craving something delicious? Vaya Pronto - Spanish for 'Deliver Fast!', is your new delivery app with a super-friendly interface. Browse restaurants, explore menus, and customize your order - all on your phone, no takeout menus needed!  We make it easy to discover new favorites or get your food fast. Download Vaya Pronto - convenient, user-friendly food delivery at your fingertips!
 
 ## User Stories in Action
 
