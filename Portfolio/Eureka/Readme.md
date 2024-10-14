@@ -5,6 +5,8 @@
 
 ## Project Description
 
+Want to see the original github project? (it says the same just in spanish [click here](https://github.com/No-Country-simulation/s14-11-m-java))
+
 Eureka is an online E-learning platform offering a wide variety of courses that empowers both educators and learners. Educators can leverage our user-friendly interface to create and curate engaging courses on a wide range of topics. Learners benefit from a diverse course library, allowing them to pursue their educational goals in a convenient and flexible format.
 
 
