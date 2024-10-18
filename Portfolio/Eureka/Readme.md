@@ -102,7 +102,7 @@ Testing QA:
 
 ## Prototype
 
- - Prototype crafted in Figma [Go to the project](https://www.figma.com/proto/9Pqwgz3rr1Rtk47jgk8ive/Eureka?page-id=538%3A4274&node-id=538-4275&viewport=541%2C225%2C0.02&t=PZEXiW0f00gRlG2J-1&scaling=min-zoom&starting-point-node-id=538%3A4275)
+ - Prototype crafted in Figma [Go to the project](https://www.figma.com/proto/9Pqwgz3rr1Rtk47jgk8ive/Eureka?page-id=992%3A13072&node-id=1076-22252&node-type=frame&viewport=301%2C66%2C0.03&t=5s4k2sWD39YXrorY-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1076%3A22252)
 
 
 ## Deploy
